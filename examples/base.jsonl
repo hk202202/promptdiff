@@ -1,0 +1,7 @@
+{"id": "qa-capital", "prompt": "What is the capital of France?", "output": "Paris.", "score": 1.0, "latency_ms": 120, "cost": 0.0012}
+{"id": "summarize", "prompt": "Summarize: The committee approved the budget after a long debate.", "output": "The committee approved the budget.", "score": 0.9, "latency_ms": 340, "cost": 0.004}
+{"id": "translate", "prompt": "Translate 'hello' to Spanish.", "output": "hola", "score": 1.0, "latency_ms": 180, "cost": 0.0015}
+{"id": "math", "prompt": "What is 17 * 4?", "output": "68", "score": 1.0, "latency_ms": 200, "cost": 0.0018}
+{"id": "cite-year", "prompt": "In what year was the Eiffel Tower completed?", "output": "1887", "score": 0.2, "latency_ms": 150, "cost": 0.001}
+{"id": "json-extract", "prompt": "Extract the name as JSON: Ada Lovelace wrote the notes.", "output": "{\"name\": \"Ada\"}", "score": 0.8, "latency_ms": 260, "cost": 0.003}
+{"id": "dropped-case", "prompt": "Name a primary color.", "output": "Red.", "score": 1.0, "latency_ms": 90, "cost": 0.0008}
